@@ -27,6 +27,7 @@ const RegistrationForm = () => {
         <div className="text-center md:text-left mb-10">
           <h2 className="text-3xl sm:text-4xl font-bold mb-3 text-gray-800">
             Reserve Your Child's Spot
+            
           </h2>
           <p className="text-base sm:text-lg text-gray-600">
             Secure your place in this exclusive learning experience
